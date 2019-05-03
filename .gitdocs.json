@@ -1,4 +1,12 @@
 {
-  "name": "philosophy of cognitive science",
-  "root": "docs/"
+  "name": "Philosophy of Cognitive Science",
+  "root": "docs/",
+  "static": ".files",
+  "header_links": [
+    {
+      "title": "GitHub",
+      "href": "https://github.com/giray123/phil-cogs",
+      "target": "_blank"
+    }
+  ]
 }
