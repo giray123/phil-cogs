@@ -1,3 +1,6 @@
-# Welcome to GitDocs
+# Philosphy of Cognitive Science
+This repository is for anyone interested in philosophy of Cognitive Science.
 
-This is a basic documentation site to get you started using GitDocs! We hope you enjoy it.
+
+## Stack
+This repo uses [GitDocs](https://gitdocs.netlify.com/) framwork, which is a documentation generator from [markdown](https://www.markdownguide.org/) files.
