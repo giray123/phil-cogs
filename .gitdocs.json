@@ -4,6 +4,7 @@
   "static": ".files",
   "output": "docs",
   "domain": "https://giray123.github.io/phil-cogs/",
+  "baseURL": "https://giray123.github.io/phil-cogs/",
   "header_links": [
     {
       "title": "GitHub",
