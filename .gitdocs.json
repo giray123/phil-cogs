@@ -3,7 +3,7 @@
   "root": "content/",
   "static": ".files",
   "output": "docs",
-  "baseURL": "https://giray123.github.io/phil-cogs/",
+  "domain": "https://giray123.github.io/phil-cogs/",
   "header_links": [
     {
       "title": "GitHub",
