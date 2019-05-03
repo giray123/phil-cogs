@@ -1,7 +1,8 @@
 {
   "name": "Philosophy of Cognitive Science",
-  "root": "docs/",
+  "root": "content/",
   "static": ".files",
+  "output": "docs",
   "header_links": [
     {
       "title": "GitHub",
